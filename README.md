@@ -1,2 +1,2 @@
 # telegram_evm_bot
-A functional bot that conects evm blockchain trades to a telegram bot. Also allows diferent functions like sell and buy limit.
+A functional bot that conects evm blockchain to a telegram bot. Especially for trading on chain, allowing diferent functions like sell and buy limit.
